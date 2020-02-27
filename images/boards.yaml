@@ -338,3 +338,8 @@ flapjack,kukui:
   screen:   [1920, 1200]
   sdcard:   False
   hi_res:   [en]
+
+jacuzzi:
+  # 1366x768, boots recovery image on USB ports or SD card.
+  screen:   [1366, 768]
+  hi_res:   [en]
