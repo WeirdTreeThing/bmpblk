@@ -111,19 +111,7 @@ diagnostic_files:
 
 styles:
   todev:          '--align=left'
-  devmode:        '--color=303030'
-  tonorm:         '--align=left --color=303030'
-  reboot_erase:   '--color=303030'
-  disable_warn:   '--color=303030'
-  enable_hint:    '--color=303030'
-  confirm_hint:   '--color=303030'
-  navigate:       '--color=444444'
-  language:       '--color=444444'
-  for_help:       '--color=444444'
-  for_help_left:  '--color=444444'
-  for_help_right: '--color=444444'
-  model_left:     '--color=444444'
-  model_right:    '--color=444444'
+  tonorm:         '--align=left'
 
 fonts:
   # All fonts should be provided and selected by 'ui-sans' family defined in

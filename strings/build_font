@@ -9,7 +9,7 @@ SCRIPT="$(readlink -f "$0")"
 SCRIPT_DIR="$(dirname "$SCRIPT")"
 FIRST_ASCII_GLYPH="32" # space
 LAST_ASCII_GLYPH="127" # delete
-COLOR="#505050"
+COLOR="#e8eaed"
 FONT="Noto Sans"
 MARGIN="3"
 

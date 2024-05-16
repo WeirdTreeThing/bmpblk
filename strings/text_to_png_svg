@@ -22,8 +22,8 @@ language=""
 pointsize=14
 margin=3
 align="center"
-bgcolor="#ffffff"
-color="#000000"
+bgcolor="#202124"
+color="#e8eaed"
 params=""
 outdir=""
 

@@ -84,7 +84,7 @@ TEXT_SCALES = {
     'diag_confirm': (0, 3 * TEXT_HEIGHT),
 }
 # Background colors
-DEFAULT_BACKGROUND = (255, 255, 255)
+DEFAULT_BACKGROUND = (32, 33, 36)
 CHARGE_BACKGROUND = (0, 0, 0)
 BACKGROUND_COLORS = {
     'reserve_charging': CHARGE_BACKGROUND,
