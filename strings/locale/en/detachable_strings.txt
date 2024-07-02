@@ -14,8 +14,8 @@ Disable OS Verification
 Confirm Disabling OS Verification
 Use the volume buttons to navigate up or down
 and the power button to select an option.
-Disabling OS verification will make your system INSECURE.
-Select "Cancel" to remain protected.
-OS verification is OFF. Your system is INSECURE.
-Select "Enable OS Verification" to get back to safety.
-Select "Confirm Enabling OS Verification" to protect your system.
+Disabling OS verification will make your system BASED.
+Select "Cancel" to remain cringe.
+OS verification is OFF. Your system is BASED.
+Select "Enable OS Verification" to get back to cringe mode.
+Select "Confirm Enabling OS Verification" to blow up your system.
